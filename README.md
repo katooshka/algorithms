@@ -1,7 +1,7 @@
 # algorithms
-Here are my solutions to the tasks of the Coursera course "Algorithms. Part I".
+Here are my solutions to the tasks of the [Coursera course "Algorithms. Part I"](https://www.coursera.org/learn/algorithms-part1).
 
-*Course syllabus:*
+*Course syllabus*:
 * Union−Find
 * Analysis of Algorithms
 * Stacks and Queues
